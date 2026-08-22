@@ -3,7 +3,7 @@
   "name": "Shitty Index",
   "id": "shitty-index",
   "description": "A Index where only rejected NONGs from Song File Hub are Accepted",
-  "lastUpdate": 1787432675,
+  "lastUpdate": 1787432826,
   "links": {
     "discord": ""
   },
@@ -108,16 +108,6 @@
         "startOffset": 0,
         "url": "https://cdn.discordapp.com/attachments/1540640549923586061/1540640551945244702/876102.mp3?ex=6a8b5993&is=6a8a0813&hm=17b1e0ed6a7d9c7e4f3dccbcc63c38fd952b6e437e90d8659d8b93dcbe3466a7&",
         "songs": [],
-        "verifiedLevelIDs": []
-      },
-      "7a6e54e45e566afdecefa99b": {
-        "name": "Crim3s - Lost (XVA Remix) x STOMACH BOOK - My Diorama",
-        "artist": "Crim3s",
-        "startOffset": 0,
-        "url": "https://cdn.discordapp.com/attachments/1540774216746672189/1540774217316958329/945695.mp3?ex=6a8b2d4f&is=6a89dbcf&hm=7d566047a2e016de681d54e97ac80c358aa97299e5e275ed6602fbb78eb17f4b&",
-        "songs": [
-          945695
-        ],
         "verifiedLevelIDs": []
       }
     }
