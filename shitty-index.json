@@ -3,7 +3,7 @@
   "name": "Shitty Index",
   "id": "shitty-index",
   "description": "A Index where only rejected NONGs from Song File Hub are Accepted",
-  "lastUpdate": 1787420543,
+  "lastUpdate": 1787420775,
   "links": {
     "discord": ""
   },
@@ -31,6 +31,16 @@
         "url": "",
         "songs": [
           76743
+        ],
+        "verifiedLevelIDs": []
+      },
+      "870e4d64eec1ae4d3a90f805": {
+        "name": "NIGHTkilla - Figures x Kasane Teto - YARAYARA",
+        "artist": "NIGHTkilla",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540775922305859640/1540775923379609630/541008.mp3?ex=6a8b2ee6&is=6a89dd66&hm=69fa0368afeebc9c50c02c569f07b75149aa4f3e19efe2e7b12d1d28f3683ba5&",
+        "songs": [
+          541008
         ],
         "verifiedLevelIDs": []
       }
