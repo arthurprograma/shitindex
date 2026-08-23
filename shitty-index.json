@@ -3,7 +3,7 @@
   "name": "Shitty Index",
   "id": "shitty-index",
   "description": "A Index where only rejected NONGs from Song File Hub are Accepted",
-  "lastUpdate": 1787432826,
+  "lastUpdate": 1787456644,
   "links": {
     "discord": ""
   },
@@ -46,7 +46,7 @@
       },
       "cdb9ef558e868b365778d278": {
         "name": "Meant to Be",
-        "artist": "c#ntsniffer",
+        "artist": "c*ntsniffer",
         "startOffset": 0,
         "url": "https://cdn.discordapp.com/attachments/1482517606496862398/1540822307293888543/Meant_To_Be.mp3?ex=6a8b5a19&is=6a8a0899&hm=5c75ba5c23c020b885529a16433f9e24e968c9f32cea366999dbf2ee7c4b4cab&",
         "songs": [
@@ -84,14 +84,6 @@
         ],
         "verifiedLevelIDs": []
       },
-      "57e05f6303f0a35bbcf82b62": {
-        "name": "Nova música",
-        "artist": "",
-        "startOffset": 0,
-        "url": "",
-        "songs": [],
-        "verifiedLevelIDs": []
-      },
       "e35606fca05a76201119f5af": {
         "name": "pathetic240px - society x Three days grace - Animal i have become",
         "artist": "pathetic240px",
@@ -102,11 +94,319 @@
         ],
         "verifiedLevelIDs": []
       },
-      "d425412279f8e0b358b5778f": {
+      "5946f59170784d42800079db": {
+        "name": "JAWBREAKER BUT ANEURYSM - IG VIDEOS",
+        "artist": "NK",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540916329002045581/1540916329354362950/546561.mp3?ex=6a8bb1a9&is=6a8a6029&hm=404845c48fd24553b39362d27b34628258405236549afbf7d7faabef5b358fb3&",
+        "songs": [
+          546561
+        ],
+        "verifiedLevelIDs": []
+      },
+      "8fc0da13fa0652f5b0fcb4f1": {
+        "name": "F-777 - F-777 - Sonic Blaster (Pitch Shift: C Minor) Sonic Blaster pitch shifted down to C Minor",
+        "artist": "F-777",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540871797577089035/1540871798030340106/574484.mp3?ex=6a8b8830&is=6a8a36b0&hm=a886c123a2ff4dfd08625e9cb1376c2e6fa7ed4f3f0ed0ab08dc0ff1d915b5fc&",
+        "songs": [
+          574484
+        ],
+        "verifiedLevelIDs": []
+      },
+      "79c397acff7b11f627c33c6b": {
+        "name": "BIG SHOT - Toby Fox x DAGames - Get Out",
+        "artist": "Toby Fox",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540917598588239958/1540917599473369108/1079423.ogg?ex=6a8bb2d8&is=6a8a6158&hm=7c9d644232706fe03ef0c8d4749d12ab58d1fd2c4832379174b9879573ef2997&",
+        "songs": [
+          1079423
+        ],
+        "verifiedLevelIDs": []
+      },
+      "23bd43b631342f2ee1329c5e": {
+        "name": "YOASOBI - Into the Night x Imase - NIGHT DANCER",
+        "artist": "Yoasobi",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540897127671005275/1540897128182718474/1024087.mp3?ex=6a8b9fc7&is=6a8a4e47&hm=fce3fc77eb1596f803f56c9e1bd4db38db155a7ee401e94d0f30b4119d80fbf4&",
+        "songs": [
+          1024087
+        ],
+        "verifiedLevelIDs": []
+      },
+      "978b0049bfb8fd973fa49890": {
+        "name": "MaelouX - Nuke Powder x IOSYS - Will you quit being a maid? Or will you quit being human?",
+        "artist": "MaelouX",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540912316411809883/1540912316885770240/489111.mp3?ex=6a8baded&is=6a8a5c6d&hm=652b3867b7a52c17d5ed785382bdd52ac8ed53e1598f11156c9d2c5126a09a69&",
+        "songs": [
+          489111
+        ],
+        "verifiedLevelIDs": []
+      },
+      "c0332f1d803bc3e0090cf998": {
+        "name": "Mambo Kingz & Ozuna - Mambo Kingz - Me Reclama ft. Ozuna, Luigi 21 Plus [Official Audio]",
+        "artist": "Ozuna",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540186338341425223/1540186338660196403/477402.mp3?ex=6a8bacce&is=6a8a5b4e&hm=46c9be681a790d58f212d2edf45e29d49c3348a11915e52b217f5795789aacb2&",
+        "songs": [
+          477402
+        ],
+        "verifiedLevelIDs": []
+      },
+      "63f023937320a195f6f5ecfb": {
+        "name": "KzX - Stalemate x David Guetta - Hey Mama",
+        "artist": "KzX",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540875760154185778/1540875760846508123/482872.mp3?ex=6a8b8be1&is=6a8a3a61&hm=64f5fc8cf739baeaf62329c6e71bca3ce42703fbd962620a44bf134d8317c9e3&",
+        "songs": [
+          482872
+        ],
+        "verifiedLevelIDs": []
+      },
+      "134cd69dcb973f0e682d84b4": {
+        "name": "Devi McCallion. - “I Want Things to Be Beautiful”",
+        "artist": "Devi McCallion",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540865091061293117/1540865091497365665/888042.mp3?ex=6a8b81f1&is=6a8a3071&hm=345db7393afbdccd9603ecbdf391707cb0578fb564fda570a31456c2ef762178&",
+        "songs": [
+          888042
+        ],
+        "verifiedLevelIDs": []
+      },
+      "27b9563cc8274630ee037fc5": {
+        "name": "CRIM3S - Lost (XVA Remix) x JJQ - Rin Tin Tin",
+        "artist": "Crimes",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540863012552843395/1540863013047898142/945695.mp3?ex=6a8b8002&is=6a8a2e82&hm=c1d4e7f9c566da4a1d779cbeaaa5afebda25e26cb5428e0f72f29bbe68dc8e96&",
+        "songs": [
+          945695
+        ],
+        "verifiedLevelIDs": []
+      },
+      "f50391d40622e6def68419f3": {
+        "name": "Azazal - I Said Meow x Kingsammelot - Moon Fries",
+        "artist": "Azazal",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540402755707871343/1540402756517625897/681708.mp3?ex=6a8b24dc&is=6a89d35c&hm=bb439360b4464f7c2e3e4fc112666805fa654e9fb4ba0ced94a5a8c4a98cd06b&",
+        "songs": [
+          681708
+        ],
+        "verifiedLevelIDs": []
+      },
+      "301678e511afbe5ccee015f5": {
+        "name": "fnfAlperGD - İt's me‚ İt's verity (Turkish cover) x Horror Skunx - İt's me‚ İt's verity",
+        "artist": "Horror Skunx",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1535974490167582831/1535974490826346556/956677.mp3?ex=6a8b8377&is=6a8a31f7&hm=b51de460b51a3be681252077d55c819d0a8dd6c9ac8904f3096ede3586fb0b90&",
+        "songs": [
+          956677
+        ],
+        "verifiedLevelIDs": []
+      },
+      "9cc4353d4df2ba6dd15739bb": {
         "name": "Koraii - Cable Kid: Comes Back to Play x Ari Pulkkinen - Angry Birds Theme Tune",
         "artist": "Koraii",
         "startOffset": 0,
         "url": "https://cdn.discordapp.com/attachments/1540640549923586061/1540640551945244702/876102.mp3?ex=6a8b5993&is=6a8a0813&hm=17b1e0ed6a7d9c7e4f3dccbcc63c38fd952b6e437e90d8659d8b93dcbe3466a7&",
+        "songs": [
+          876102
+        ],
+        "verifiedLevelIDs": []
+      },
+      "3467d8991a1c47c4d89f5901": {
+        "name": "KzX - Stalemate x KingSammelot - Muga Million",
+        "artist": "KzX",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1538684440882978828/1538684441457860608/482872.mp3?ex=6a8b7c0e&is=6a8a2a8e&hm=b5ae8cf73bc86b32fc131108aff5e4c6fa85a11c1aa4f164702a35aeee047b35&",
+        "songs": [
+          482872
+        ],
+        "verifiedLevelIDs": []
+      },
+      "4354263ccdc62a5e997674bb": {
+        "name": "Dion Timmer - Shiawase VIP x DNCE - Cake by the Ocean",
+        "artist": "Dion Timmer",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540483037140361377/1540483037530423376/1266014.mp3?ex=6a8b6fa0&is=6a8a1e20&hm=f8e6a25cecd0a644a52448bc5bd6260916549537e04c1b9ab8a98c636000e304&",
+        "songs": [
+          1266014
+        ],
+        "verifiedLevelIDs": []
+      },
+      "9b9d935a80ea57507540c427": {
+        "name": "cYsmix - Classic Pursuit (Super Low Pitch)",
+        "artist": "cYsmix",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540734536009126052/1540734536827273226/718171.mp3?ex=6a8bb11b&is=6a8a5f9b&hm=48f8fec6a66b92dc5dfaf79fb246bf48df18ca7e849fbe81efe64063ca1a02c1&",
+        "songs": [
+          718171
+        ],
+        "verifiedLevelIDs": []
+      },
+      "bfb3ce0fdd3f16fb43ccfb21": {
+        "name": "F-777 - Sonic Blaster x ShlendFNAF2000 - Sonic Wave x Story of Undertale",
+        "artist": "F-777",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1537067475597004910/1537067476276215878/574484.mp3?ex=6a8b88e3&is=6a8a3763&hm=326ca8277952a53ab3722cbb3880c2c3800792a9f4a75cc2c58c3c5936700248&",
+        "songs": [
+          574484
+        ],
+        "verifiedLevelIDs": []
+      },
+      "f3e20e78070563d6cf49d628": {
+        "name": "Jewelz123 - Silent Hill (Dubstep) x Lankybox - The Milk Song",
+        "artist": "Jewelz123",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1535210559224545395/1535210560054894713/386900.mp3?ex=6a8b5f00&is=6a8a0d80&hm=7c891f3fa16acec63935e24823f977353ed3d0c122006524c4014c2992fbbb87&",
+        "songs": [
+          386900
+        ],
+        "verifiedLevelIDs": []
+      },
+      "80f6274f3c42c9384aa36025": {
+        "name": "dj-Nate - Thermodynamix x pupsies - misery.",
+        "artist": "Dj-nate",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1539816803369484399/1539816803956559942/770520.mp3?ex=6a8ba626&is=6a8a54a6&hm=2d61ac97602315da92d834b2fd5d88c474dc6905ecee75dce4dd3b90bb54e40c&",
+        "songs": [
+          770520
+        ],
+        "verifiedLevelIDs": []
+      },
+      "222b0f73384af55c3f6c4040": {
+        "name": "dj tęga knaga - clubstep x boobies - mizeria",
+        "artist": "DJ-nate",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540684337165369407/1540684337475883158/Clubstep.mp3?ex=6a8b825a&is=6a8a30da&hm=4d81a7a596edca53ad075f548f8836219d83b3ab3145a304297fa1c8c54a6021&",
+        "songs": [],
+        "verifiedLevelIDs": []
+      },
+      "b964c50e5965b34b000691e1": {
+        "name": "dj-Nate - Journey into Sound x Dax - Why So Serious",
+        "artist": "Dj-nate",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540514039942221826/1540514040592212028/73552.mp3?ex=6a8b8c80&is=6a8a3b00&hm=6d6ab520dc17f64da88753a01a8d223ec0bab5d3853813ce38c25d9c39432bf9&",
+        "songs": [
+          73552
+        ],
+        "verifiedLevelIDs": []
+      },
+      "466012cf481eac10dec9e001": {
+        "name": "lia:quo - Crystal Corruption (Nightcore Edit) x Blizzi Boi - 41 Song (Saks Freestyle)",
+        "artist": "lia:quo",
+        "startOffset": 0,
+        "url": "732596",
+        "songs": [
+          732596
+        ],
+        "verifiedLevelIDs": []
+      },
+      "460df5ee9f793fef5e432d07": {
+        "name": "Djjaner - The Hallucination x Qbrotherscollective - @JJQTheOfficial 12 year old rips a freestyle at @Lollapalooza",
+        "artist": "Djjaner",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1538877986806308926/1538877987385249792/568369.mp3?ex=6a8b878f&is=6a8a360f&hm=da9b90439dc2551096675a3f7011a3fde5bc00dab7a4fbdc68d9293ea6d97c62&",
+        "songs": [
+          568369
+        ],
+        "verifiedLevelIDs": []
+      },
+      "b015adb93357150620c98289": {
+        "name": "WaxTerk - EarthBounce x Yeat - Breathe",
+        "artist": "WaxTerk",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540748722928091187/1540748723691200542/956573.mp3?ex=6a8b1591&is=6a89c411&hm=8d1f95a34190e91b1d717537c2e3529267ad64456ff552446eb69779a5f1cffa&",
+        "songs": [
+          956573
+        ],
+        "verifiedLevelIDs": []
+      },
+      "0804cc47e376611e4110ab48": {
+        "name": "turquoisedeath - Lost in snow x Rx Papi - 12 Stout Street",
+        "artist": "turquoisedeath",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540720320330334332/1540720320938516640/1208210.mp3?ex=6a8ba3dd&is=6a8a525d&hm=6f5c4c8f19c480a83428948a02a3669687930e93a1dda59071028f4173bf2610&",
+        "songs": [
+          1208210
+        ],
+        "verifiedLevelIDs": []
+      },
+      "73e9378537ea2e038605f322": {
+        "name": "WaxTerk - EarthBounce x Yeat - Sorry Bout That",
+        "artist": "WaxTerk",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540744534710034565/1540744535217406073/956573.mp3?ex=6a8bba6a&is=6a8a68ea&hm=9e1b82925e59a54b6dcee3bb7cd03f40d473969792a01935abc934aa0f3ecf5f&",
+        "songs": [
+          956573
+        ],
+        "verifiedLevelIDs": []
+      },
+      "8f0868cf2893663d14cbb313": {
+        "name": "F-777 - Sonic Blaster x GameMixTreize - Toujours le même",
+        "artist": "F-777",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540742045210255501/1540742045553918004/574484.mp3?ex=6a8bb819&is=6a8a6699&hm=11ac7cff34e37a5fc46a197cf930516310a68dcdb736489075f9dd906f213318&",
+        "songs": [
+          574484
+        ],
+        "verifiedLevelIDs": []
+      },
+      "975e0d67f29cb8239bdeb5ca": {
+        "name": "c00lminik - GRIEF but its my voice",
+        "artist": "c00lminik",
+        "startOffset": 0,
+        "url": "https://cdn.discordapp.com/attachments/1540741275693748296/1540741276192866304/482872.mp3?ex=6a8bb761&is=6a8a65e1&hm=93cbe02d8e4fa30507dc0cb7d1a690d271be9f3387021763d041a2c0ee912ed9&",
+        "songs": [
+          482872
+        ],
+        "verifiedLevelIDs": []
+      },
+      "e549e182b2f80f7213d01814": {
+        "name": "Nova música",
+        "artist": "",
+        "startOffset": 0,
+        "url": "",
+        "songs": [],
+        "verifiedLevelIDs": []
+      },
+      "40766cebb09a12d1dba105ce": {
+        "name": "Nova música",
+        "artist": "",
+        "startOffset": 0,
+        "url": "",
+        "songs": [],
+        "verifiedLevelIDs": []
+      },
+      "397a3441322bc511a96338e6": {
+        "name": "Nova música",
+        "artist": "",
+        "startOffset": 0,
+        "url": "",
+        "songs": [],
+        "verifiedLevelIDs": []
+      },
+      "bfbd58b8c90fde403445a629": {
+        "name": "Nova música",
+        "artist": "",
+        "startOffset": 0,
+        "url": "",
+        "songs": [],
+        "verifiedLevelIDs": []
+      },
+      "a0f0edd021f5f17e7c8bb3a5": {
+        "name": "Nova música",
+        "artist": "",
+        "startOffset": 0,
+        "url": "",
+        "songs": [],
+        "verifiedLevelIDs": []
+      },
+      "2866005de2445cf87ad616dd": {
+        "name": "Nova música",
+        "artist": "",
+        "startOffset": 0,
+        "url": "",
         "songs": [],
         "verifiedLevelIDs": []
       }
